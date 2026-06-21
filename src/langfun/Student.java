@@ -39,6 +39,8 @@ public class Student {
 		String name = sc.nextLine();
 		getthestudentname(name);
 		System.out.println("Enter your Number");
+		
+		
 		long number = sc.nextLong();
 		getthenumber1(number);
 		System.out.println("Enter Your RollNumber");
@@ -63,4 +65,8 @@ public class Student {
 
 	}
 
-}
+	
+		
+	}
+
+
